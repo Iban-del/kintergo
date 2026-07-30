@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=IBAN-DEL&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20d%27applications%20%7C%20%C3%89tudiant%20BUT%20Informatique&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/Iban-del">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+D%C3%A9veloppeur+d%27applications+%40+Network+Informatique;%3E+BUT+Informatique+%C3%A0+l%27IUT+de+Laval;%3E+Machine+Learning+%26+Robotique;%3E%7C+Python+%7C+Maths+%7C&font=Fira+Code&center=true&width=700&height=50&color=00BFFF&vCenter=true&size=22&pause=1800&background=00000000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+D%C3%A9veloppeur+d%27applications+%40+Network+Informatique;%3E+BUT+Informatique+%C3%A0+l%27IUT+de+Laval;%3E+Machine+Learning+%26;%3E%7C+Python+%7C+Maths+%7C&font=Fira+Code&center=true&width=700&height=50&color=00BFFF&vCenter=true&size=22&pause=1800&background=00000000" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Iban-del&label=Visiteurs&color=39FF14&style=for-the-badge" alt="Iban Visitor Counter"/>
