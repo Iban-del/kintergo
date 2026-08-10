@@ -83,7 +83,6 @@ Discord : **@Bouboune**
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846" />
 <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=00BFFF" />
