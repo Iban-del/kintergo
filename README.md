@@ -29,7 +29,7 @@ Discord : **@Bouboune**
 <td align="right"><b>Langages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00BFFF" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00BFFF" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00BFFF" />
